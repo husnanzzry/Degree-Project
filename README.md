@@ -1,2 +1,2 @@
 # Degree-Project
-Complied all Husma's degree project assignment
+Compliling all Husna's degree project assignment
